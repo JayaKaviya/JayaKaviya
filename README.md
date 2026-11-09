@@ -78,13 +78,16 @@
 <p align="center">
   <img height="180px" src="https://github-readme-stats-fast.vercel.app/api?username=JayaKaviya&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
   <img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JayaKaviya&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p> 
+</p>  
 
+---
+
+## 🧠 Contribution Summary (PRs, Reviews, Commits)
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayaKaviya&theme=dracula"/>
-</div> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayaKaviya&theme=dracula" alt="Contribution Summary Card" />
+</div>
 
---- 
+---
 
 
 ## 🤝 Connect With Me
