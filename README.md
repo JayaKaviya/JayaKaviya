@@ -55,6 +55,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaKaviya&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p> 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayaKaviya&theme=tokyo-night&hide_border=false" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JayaKaviya&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p> 
+
+<p align="center">
+  <img src="https://metrics.lecaquo.dev/JayaKaviya?template=classic&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" />
 </p>
 
 ---
