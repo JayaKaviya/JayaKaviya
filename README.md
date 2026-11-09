@@ -26,9 +26,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/500%2B_Problems-10B981?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode_75-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/50_Days_Streak-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/100_Days_Streak-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/LC_Badges_Earned-7_Total-9333EA?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Top_SQL_50-00758F?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/2026_100_Days-FF4500?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/2026_50_Days-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/2025_100_Days-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/2025_50_Days-45B7D1?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jul_Daily_Medal-9333EA?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/CodeChef_285%2B_Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
