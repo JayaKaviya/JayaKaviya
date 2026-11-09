@@ -53,7 +53,7 @@
   <img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JayaKaviya&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaKaviya&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaKaviya&theme=tokyonight&hide_border=false&fire=FF4500" alt="GitHub Streak" />
 </p>
 
 
