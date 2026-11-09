@@ -57,18 +57,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaKaviya&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>  
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayaKaviya/JayaKaviya/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayaKaviya/JayaKaviya/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JayaKaviya/JayaKaviya/output/github-contribution-grid-snake.svg">
-  </picture>
-</p> 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=JayaKaviya&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaKaviya&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🤝 Connect With Me
