@@ -47,18 +47,15 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Overview
 <p align="center">
-  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api?username=JayaKaviya&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JayaKaviya&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaKaviya&theme=tokyonight&hide_border=false&fire=FF4500" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayaKaviya&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://img.shields.io/github/followers/JayaKaviya?style=for-the-badge&logo=github&color=2ea44f" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/JayaKaviya?style=for-the-badge&logo=github&color=e3b341" alt="Total Stars" />
 </p>
 
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaKaviya&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
 
 ---
 
