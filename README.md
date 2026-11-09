@@ -24,10 +24,10 @@
 
 ### 🏆 LeetCode Stats & Badges
 <p align="center">
-  <img src="https://leetcode-stats-card.vercel.app/api?username=JayaKaviya&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/JayaKaviya?theme=dark&font=baloo" alt="LeetCode Stats" />
 </p>
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=JayaKaviya&theme=dark" alt="LeetCode Badges" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=JayaKaviya&theme=dark&limit=10" alt="LeetCode Badges" />
 </p>
 
 ---
