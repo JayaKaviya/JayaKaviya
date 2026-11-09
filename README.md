@@ -22,13 +22,19 @@
 
 ---
 
-### 🏆 LeetCode Badges & Achievements
+### 🏆 Coding Badges & Achievements
 <p align="center">
   <img src="https://img.shields.io/badge/500%2B_Problems-10B981?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode_75-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   <img src="https://img.shields.io/badge/50_Days_Streak-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/100_Days_Streak-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Badge_Earned-7_Total-9333EA?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LC_Badges_Earned-7_Total-9333EA?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+<p align="center">
+  <a href="https://www.codechef.com/users/jayakaviya" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/CodeChef-Competitive_Coder-D32F2F?style=for-the-badge&logo=codechef&logoColor=white" />
 </p>
 
 ---
