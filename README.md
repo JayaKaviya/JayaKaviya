@@ -7,8 +7,6 @@
 
 ---
 
-### 💻 Tech Stack & Tools
-
 ### 👨‍💻 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,react,nextjs&perline=4" /><br/>
