@@ -21,11 +21,14 @@
 - ☁️ Certified **Microsoft Azure Developer Associate**.
 
 ---
+---
 
-### 🏆 LeetCode Achievements & Stats
+### 🏆 LeetCode Badges & Highlights
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode_Badges-7_Earned-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Problems_Solved-500%2B-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/LeetCode_75-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/50_Days_Streak-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/100_Days_Streak-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/500%2B_Problems_Solved-10B981?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
 <p align="center">
@@ -34,10 +37,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 <p align="center">
-  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api?username=JayaKaviya&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JayaKaviya&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api?username=JayaKaviya&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JayaKaviya&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaKaviya&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
