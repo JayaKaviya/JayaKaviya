@@ -23,22 +23,26 @@
 ---
 
 ### 🏆 Coding Badges & Achievements
+
+<!-- LeetCode -->
 <p align="center">
-  <img src="https://img.shields.io/badge/500%2B_Problems-10B981?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode_75-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Top_SQL_50-00758F?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/2026_100_Days-FF4500?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/2026_50_Days-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/2025_100_Days-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/2025_50_Days-45B7D1?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jul_Daily_Medal-9333EA?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/500%2B_Problems-10B981?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 500+ Problems" />
+  <img src="https://img.shields.io/badge/LeetCode_75-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 75" />
+  <img src="https://img.shields.io/badge/Top_SQL_50-00758F?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top SQL 50" />
+  <img src="https://img.shields.io/badge/2026_100_Days-FF4500?style=for-the-badge&logo=leetcode&logoColor=white" alt="2026 100 Days Badge" />
+  <img src="https://img.shields.io/badge/2026_50_Days-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" alt="2026 50 Days Badge" />
+  <img src="https://img.shields.io/badge/2025_100_Days-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white" alt="2025 100 Days Badge" />
+  <img src="https://img.shields.io/badge/2025_50_Days-45B7D1?style=for-the-badge&logo=leetcode&logoColor=white" alt="2025 50 Days Badge" />
+  <img src="https://img.shields.io/badge/Jul_Daily_Medal-9333EA?style=for-the-badge&logo=leetcode&logoColor=white" alt="Jul Daily Medal" />
 </p>
+
+<!-- CodeChef -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CodeChef_285%2B_Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/50_Days_Streak_Gold-FFD700?style=for-the-badge&logo=codechef&logoColor=black" />
-  <img src="https://img.shields.io/badge/250_Problems_Silver-C0C0C0?style=for-the-badge&logo=codechef&logoColor=black" />
-  <img src="https://img.shields.io/badge/Code_Enthusiast_Silver-C0C0C0?style=for-the-badge&logo=codechef&logoColor=black" />
-  <img src="https://img.shields.io/badge/Contest_Contender_Bronze-CD7F32?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef_285%2B_Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 285+ Problems" />
+  <img src="https://img.shields.io/badge/50_Days_Streak_Gold-FFD700?style=for-the-badge&logo=codechef&logoColor=black" alt="50 Days Streak Gold" />
+  <img src="https://img.shields.io/badge/250_Problems_Silver-C0C0C0?style=for-the-badge&logo=codechef&logoColor=black" alt="250 Problems Silver" />
+  <img src="https://img.shields.io/badge/Code_Enthusiast_Silver-C0C0C0?style=for-the-badge&logo=codechef&logoColor=black" alt="Code Enthusiast Silver" />
+  <img src="https://img.shields.io/badge/Contest_Contender_Bronze-CD7F32?style=for-the-badge&logo=codechef&logoColor=white" alt="Contest Contender Bronze" />
 </p>
 
 ---
