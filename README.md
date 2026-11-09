@@ -7,26 +7,17 @@
 
 ---
 
-### 👨‍💻 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,nextjs&perline=4" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" /><br/>
-  <img src="https://skillicons.dev/icons?i=azure,git,vscode,postman&perline=4" />
-</p>
-
----
-
-### 🔭 About Me
+## 🔭 About Me
 - 🎓 **Master of Computer Applications (MCA)** – Gold Medalist & Academic Rank Holder.
 - 💻 Experienced in building full-stack web applications using **React.js, Next.js, Node.js, Express.js, Python, and MongoDB/MySQL**.
-- 💡 Strong problem-solving background with **500+ solved problems on LeetCode** (7 Badges earned).
+- 💡 Strong problem-solving background with **500+ solved problems on LeetCode** & **285+ on CodeChef**.
 - ☁️ Certified **Microsoft Azure Developer Associate**.
 
 ---
 
-### 🏆 Coding Badges & Achievements
+## 🏆 Coding Badges & Achievements
 
-<!-- LeetCode -->
+<!-- LeetCode Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/500%2B_Problems-10B981?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 500+ Problems" />
   <img src="https://img.shields.io/badge/LeetCode_75-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 75" />
@@ -38,7 +29,7 @@
   <img src="https://img.shields.io/badge/Jul_Daily_Medal-9333EA?style=for-the-badge&logo=leetcode&logoColor=white" alt="Jul Daily Medal" />
 </p>
 
-<!-- CodeChef -->
+<!-- CodeChef Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/CodeChef_285%2B_Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 285+ Problems" />
   <img src="https://img.shields.io/badge/50_Days_Streak_Gold-FFD700?style=for-the-badge&logo=codechef&logoColor=black" alt="50 Days Streak Gold" />
@@ -46,6 +37,13 @@
   <img src="https://img.shields.io/badge/Code_Enthusiast_Silver-C0C0C0?style=for-the-badge&logo=codechef&logoColor=black" alt="Code Enthusiast Silver" />
   <img src="https://img.shields.io/badge/Contest_Contender_Bronze-CD7F32?style=for-the-badge&logo=codechef&logoColor=white" alt="Contest Contender Bronze" />
 </p>
+
+---
+
+## 🧠 Contribution Summary (PRs, Reviews, Commits)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayaKaviya&theme=dracula"/>
+</div>
 
 ---
 
@@ -57,16 +55,45 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaKaviya&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>  
+</p>
 
 ---
 
-### 🤝 Connect With Me
-<p align="center">
+## 👨‍💻 Languages & Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+<div align="left">
   <a href="https://linkedin.com/in/jayakaviya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
   </a>
   <a href="mailto:jayakaviyaofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
   </a>
-</p>
+</div>
