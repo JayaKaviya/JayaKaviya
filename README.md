@@ -55,6 +55,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaKaviya&theme=tokyonight&hide_border=false&fire=FF4500" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayaKaviya&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
 
 
 ---
