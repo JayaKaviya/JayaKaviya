@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! I'm Jaya Kaviya Deivasigamani</h1>
-<h3 align="center">Full-Stack Developer | Passionate about building impactful web solutions</h3>
+<h3 align="center">Master of Computer Applications | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JayaKaviya&style=flat-profile&color=blue" alt="Profile Views" />
@@ -15,11 +15,11 @@
 ---
 
 ### 🔭 About Me
-- 🌱 **Gold Medalist & Academic Rank Holder** in Computer Applications[cite: 1, 2].
-- 💻 Experienced in building full-stack web applications using **React.js, Next.js, Node.js, Express.js, Python, and MongoDB/MySQL**[cite: 1, 2].
-- 💡 Strong problem-solving background with **500+ solved problems on LeetCode** (7 Badges earned)[cite: 1].
-- ☁️ Certified **Microsoft Azure Developer Associate**[cite: 1].
-- 📫 Reach me at: **jayakaviyaofficial@gmail.com**[cite: 1]
+- 🎓 **Master of Computer Applications (MCA)** – Gold Medalist & Academic Rank Holder.
+- 💻 Experienced in building full-stack web applications using **React.js, Next.js, Node.js, Express.js, Python, and MongoDB/MySQL**.
+- 💡 Strong problem-solving background with **500+ solved problems on LeetCode** (7 Badges earned).
+- ☁️ Certified **Microsoft Azure Developer Associate**.
+- 📫 Reach me at: **jayakaviyaofficial@gmail.com**
 
 ---
 
@@ -35,8 +35,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=JayaKaviya&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaKaviya&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api?username=JayaKaviya&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JayaKaviya&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
