@@ -83,9 +83,9 @@
 ---
 
 ## 🧠 Contribution Summary (PRs, Reviews, Commits)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaKaviya&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayaKaviya&theme=dracula" alt="Contribution Summary Card" />
+</div>
 
 ---
 
