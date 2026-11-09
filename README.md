@@ -47,14 +47,14 @@
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://img.shields.io/github/followers/JayaKaviya?style=for-the-badge&logo=github&color=2ea44f" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/JayaKaviya?style=for-the-badge&logo=github&color=e3b341" alt="Total Stars" />
+  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api?username=JayaKaviya&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JayaKaviya&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaKaviya&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaKaviya&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
