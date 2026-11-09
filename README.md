@@ -22,12 +22,14 @@
 
 ---
 
-### 🏆 LeetCode Stats & Badges
+### 🏆 LeetCode Achievements & Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/JayaKaviya?theme=dark&font=baloo" alt="LeetCode Stats" />
+  <img src="https://img.shields.io/badge/LeetCode_Badges-7_Earned-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Problems_Solved-500%2B-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </p>
+
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=JayaKaviya&theme=dark&limit=10" alt="LeetCode Badges" />
+  <img src="https://leetcard.jacoblin.cool/JayaKaviya?theme=nord&font=baloo" alt="LeetCode Stats" />
 </p>
 
 ---
