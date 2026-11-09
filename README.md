@@ -19,7 +19,6 @@
 - 💻 Experienced in building full-stack web applications using **React.js, Next.js, Node.js, Express.js, Python, and MongoDB/MySQL**.
 - 💡 Strong problem-solving background with **500+ solved problems on LeetCode** (7 Badges earned).
 - ☁️ Certified **Microsoft Azure Developer Associate**.
-- 📫 Reach me at: **jayakaviyaofficial@gmail.com**
 
 ---
 
