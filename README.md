@@ -31,10 +31,11 @@
   <img src="https://img.shields.io/badge/LC_Badges_Earned-7_Total-9333EA?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 <p align="center">
-  <a href="https://www.codechef.com/users/jayakaviya" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/CodeChef-Competitive_Coder-D32F2F?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef_285%2B_Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/50_Days_Streak_Gold-FFD700?style=for-the-badge&logo=codechef&logoColor=black" />
+  <img src="https://img.shields.io/badge/250_Problems_Silver-C0C0C0?style=for-the-badge&logo=codechef&logoColor=black" />
+  <img src="https://img.shields.io/badge/Code_Enthusiast_Silver-C0C0C0?style=for-the-badge&logo=codechef&logoColor=black" />
+  <img src="https://img.shields.io/badge/Contest_Contender_Bronze-CD7F32?style=for-the-badge&logo=codechef&logoColor=white" />
 </p>
 
 ---
